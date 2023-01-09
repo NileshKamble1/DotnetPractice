@@ -1,0 +1,17 @@
+G:\DOTNET\Programs\D10_Ecommerce\bll\bin\Debug\net7.0\bll.deps.json
+G:\DOTNET\Programs\D10_Ecommerce\bll\bin\Debug\net7.0\bll.dll
+G:\DOTNET\Programs\D10_Ecommerce\bll\bin\Debug\net7.0\bll.pdb
+G:\DOTNET\Programs\D10_Ecommerce\bll\obj\Debug\net7.0\bll.csproj.AssemblyReference.cache
+G:\DOTNET\Programs\D10_Ecommerce\bll\obj\Debug\net7.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+G:\DOTNET\Programs\D10_Ecommerce\bll\obj\Debug\net7.0\bll.AssemblyInfoInputs.cache
+G:\DOTNET\Programs\D10_Ecommerce\bll\obj\Debug\net7.0\bll.AssemblyInfo.cs
+G:\DOTNET\Programs\D10_Ecommerce\bll\obj\Debug\net7.0\bll.csproj.CoreCompileInputs.cache
+G:\DOTNET\Programs\D10_Ecommerce\bll\obj\Debug\net7.0\bll.dll
+G:\DOTNET\Programs\D10_Ecommerce\bll\obj\Debug\net7.0\refint\bll.dll
+G:\DOTNET\Programs\D10_Ecommerce\bll\obj\Debug\net7.0\bll.pdb
+G:\DOTNET\Programs\D10_Ecommerce\bll\obj\Debug\net7.0\ref\bll.dll
+G:\DOTNET\Programs\D10_Ecommerce\bll\bin\Debug\net7.0\bol.dll
+G:\DOTNET\Programs\D10_Ecommerce\bll\bin\Debug\net7.0\dal.dll
+G:\DOTNET\Programs\D10_Ecommerce\bll\bin\Debug\net7.0\bol.pdb
+G:\DOTNET\Programs\D10_Ecommerce\bll\bin\Debug\net7.0\dal.pdb
+G:\DOTNET\Programs\D10_Ecommerce\bll\obj\Debug\net7.0\bll.csproj.CopyComplete
